@@ -1,0 +1,14 @@
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.exe
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.deps.json
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.runtimeconfig.json
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.runtimeconfig.dev.json
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.dll
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\bin\Debug\netcoreapp3.1\Tech_Interview-PayEvo.pdb
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.csproj.AssemblyReference.cache
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.AssemblyInfoInputs.cache
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.AssemblyInfo.cs
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.csproj.CoreCompileInputs.cache
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.dll
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.pdb
+C:\Users\hetal\source\repos\Tech_Interview-PayEvo\Tech_Interview-PayEvo\obj\Debug\netcoreapp3.1\Tech_Interview-PayEvo.genruntimeconfig.cache
