@@ -6,17 +6,25 @@ namespace Tech_Assessment_PayEvo
 {
     public class Q1
     {
-        public static int lengthOfLongestSubstring(string str)
+        public static int lengthOfLongestSubstring(string s)
         {
-            string newString="";
-            foreach(char c in str)
-            {                
-                if (!newString.Contains(c))
+            int length = 0;
+            int i = 0;
+            HashSet<char> hset = new HashSet<char>();
+            foreach (char c in s)
+            {
+                if (!hset.Contains(c))
                 {
-                    newString = newString + c;                  
-                }                
+                    hset.Add(c);
+                    length = Math.Max(length, hset.Count);
+                }
+                else
+                {
+                    hset.Remove(s[i]);
+                    i++;
+                }
             }
-            return newString.Length;
+            return length;
 
         }
     }
