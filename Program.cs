@@ -12,11 +12,11 @@ namespace Tech_Assessment_PayEvo
 
             //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
             Console.WriteLine("****** Question#2 ******");
-            Q2Method();
+            //Q2Method();
 
             //Given an integer x, return true if x is palindrome integer.
             Console.WriteLine("****** Question#3 ******");
-            Q3Method();
+            //Q3Method();
 
         }
 
@@ -38,17 +38,17 @@ namespace Tech_Assessment_PayEvo
 
         public static void Q3Method()
         {             
-            int number = 0;
+            long number = 0;
             try
             {
                 Console.WriteLine("Enter any Number to check its a Palindrome or not!");
-                number = Convert.ToInt32(Console.ReadLine());
+                number = Convert.ToInt64(Console.ReadLine());
             }
             catch (FormatException ex)
             {
                 Console.WriteLine("Error info:" + ex.Message);
                 Console.Write("Enter integer number:");
-                number = Convert.ToInt32(Console.ReadLine());
+                number = Convert.ToInt64(Console.ReadLine());
             }
             Console.WriteLine(Q3.isNumPalindrome(number));
 

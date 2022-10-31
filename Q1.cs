@@ -10,18 +10,21 @@ namespace Tech_Assessment_PayEvo
         {
             int length = 0;
             int i = 0;
+            int j = 0;
             HashSet<char> hset = new HashSet<char>();
-            foreach (char c in s)
+            while (i<s.Length)
             {
-                if (!hset.Contains(c))
+                if (!hset.Contains(s[i]))
                 {
-                    hset.Add(c);
+                    hset.Add(s[i]);
                     length = Math.Max(length, hset.Count);
+                    i++;
                 }
                 else
                 {
-                    hset.Remove(s[i]);
-                    i++;
+                    hset.Remove(s[j]);
+                    j++;
+                   
                 }
             }
             return length;

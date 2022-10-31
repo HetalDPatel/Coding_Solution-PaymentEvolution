@@ -8,10 +8,10 @@ namespace Tech_Assessment_PayEvo
     public class Q3
     {
 
-        public static bool isNumPalindrome(int number)
+        public static bool isNumPalindrome(long number)
         {
-            int tempNumber = number;
-            int reveresNum = 0;
+            long tempNumber = number;
+            long reveresNum = 0;
             while (tempNumber != 0)
             {
                 reveresNum = reveresNum * 10 + (tempNumber % 10);
